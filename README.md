@@ -33,7 +33,7 @@
 ## 🌱 요즘 만드는 것
 
 <a href="https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&amp;source=copy_link">
-  <img src="./assets/today-departure-logo.png" width="110" alt="오늘 출국 로고" />
+  <img src="./assets/tripport-logo.png" width="110" alt="오늘 출국 로고" />
 </a>
 
 ### [오늘 출국](https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&source=copy_link)
