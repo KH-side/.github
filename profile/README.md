@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/night-workshop.png" width="100%" alt="별이 뜬 밤, 작은 작업실에서 함께 만드는 게코와 검정 고양이" />
+<img src="../assets/night-workshop.png" width="100%" alt="별이 뜬 밤, 작은 작업실에서 함께 만드는 게코와 검정 고양이" />
 
 <br />
 
@@ -33,7 +33,7 @@
 ## 🌱 요즘 만드는 것
 
 <a href="https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&amp;source=copy_link">
-  <img src="./assets/tripport-logo.jpg" width="110" alt="오늘 출국 로고" />
+  <img src="../assets/tripport-logo.jpg" width="110" alt="오늘 출국 로고" />
 </a>
 
 ### [오늘 출국(Tripport)](https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&source=copy_link)
@@ -50,7 +50,7 @@
 
 <br />
 
-<img src="./assets/hanjibung-logo.png" width="110" alt="한지붕 로고" />
+<img src="../assets/hanjibung-logo.png" width="110" alt="한지붕 로고" />
 
 ### 한지붕(HanZiBong)
 
@@ -81,6 +81,6 @@
 
 <br /><br />
 
-<img src="./assets/footprints.svg" width="100%" alt="게코와 고양이가 나란히 걸으며 남긴 두 줄의 왼발 오른발 발자국" />
+<img src="../assets/footprints.svg" width="100%" alt="게코와 고양이가 나란히 걸으며 남긴 두 줄의 왼발 오른발 발자국" />
 
 </div>
