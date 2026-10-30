@@ -26,9 +26,11 @@
 
 ## 🌱 요즘 만드는 것
 
-<img src="./assets/today-departure-logo.png" width="110" alt="오늘 출국 로고" />
+<a href="https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&amp;source=copy_link">
+  <img src="./assets/today-departure-logo.png" width="110" alt="오늘 출국 로고" />
+</a>
 
-### 오늘 출국
+### [오늘 출국](https://tripport.notion.site/494f62abeadb821db099810d938d1be9?v=95cf62abeadb832dab250894803ba23e&source=copy_link)
 
 **어디로 떠날지 모르는 설렘, 도장으로 남기는 나만의 여행.**
 
